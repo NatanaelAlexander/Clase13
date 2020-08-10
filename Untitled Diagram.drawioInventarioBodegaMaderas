@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-08-10T04:10:24.016Z" agent="5.0 (Windows)" etag="qnJeVXvqjLtRzY1idCKG" version="13.6.0" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2020-08-10T04:21:16.044Z" agent="5.0 (Windows)" etag="a2eCe7cy9C7OqulxZDdy" version="13.6.0" type="github" pages="10">
   <diagram id="JC-sAp7WE0lg-kA9UAAD" name="LOGIN">
     <mxGraphModel dx="2328" dy="1960" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -133,7 +133,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="TibtZrfdMcgnpVMYf6bS" name="REGISTRAR PROVEEDOR">
-    <mxGraphModel dx="2307" dy="2168" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1400" math="0" shadow="0">
+    <mxGraphModel dx="2064" dy="2278" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1400" math="0" shadow="0">
       <root>
         <mxCell id="A_1kDLr6eXD-KuFJtUxc-0" />
         <mxCell id="A_1kDLr6eXD-KuFJtUxc-1" parent="A_1kDLr6eXD-KuFJtUxc-0" />
@@ -253,7 +253,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="bP5KHo033ZhxrfCp6Sq9" name="REGISTRAR PRODUCTOS">
-    <mxGraphModel dx="2351" dy="2191" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1400" math="0" shadow="0">
+    <mxGraphModel dx="2100" dy="2304" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1400" math="0" shadow="0">
       <root>
         <mxCell id="3WXnGKFIpZeBrbHAe6jt-0" />
         <mxCell id="3WXnGKFIpZeBrbHAe6jt-1" parent="3WXnGKFIpZeBrbHAe6jt-0" />
@@ -367,7 +367,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="MM7C5nEu-tfOgHjEiOK9" name="REGISTRAR VENDEDOR(A)">
-    <mxGraphModel dx="2351" dy="2191" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1400" math="0" shadow="0">
+    <mxGraphModel dx="2321" dy="2331" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1400" math="0" shadow="0">
       <root>
         <mxCell id="hBzxztugeIATV_Wiwd3F-0" />
         <mxCell id="hBzxztugeIATV_Wiwd3F-1" parent="hBzxztugeIATV_Wiwd3F-0" />
@@ -382,6 +382,9 @@
         </mxCell>
         <mxCell id="NyJNs8XynIM9CiAp7bjc-4" value="Foto" style="fillColor=none;strokeColor=none;align=left;fontSize=16;fontColor=#212529;rounded=1;" vertex="1" parent="A6-OWHy7JL7aSp0janoZ-0">
           <mxGeometry x="49.39" y="710" width="390" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="2cq6cMkKZFw1MyVjsg71-1" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.navigation.scrollBar;strokeColor=#999999;barPos=100;fillColor2=#99ddff;strokeColor2=none;direction=north;rounded=1;fillColor=#FFFFFF;fontSize=16;" vertex="1" parent="A6-OWHy7JL7aSp0janoZ-0">
+          <mxGeometry x="1150" y="110" width="20" height="590" as="geometry" />
         </mxCell>
         <mxCell id="-jHiV5tXIIVLO4GNw9Ox-0" value="" style="whiteSpace=wrap;html=1;rotation=90;rounded=1;" vertex="1" parent="hBzxztugeIATV_Wiwd3F-1">
           <mxGeometry x="505.69" y="-477.1" width="87.8" height="1074.22" as="geometry" />
@@ -499,7 +502,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="cNEKV83huM_81fVq_3qd" name="Productos">
-    <mxGraphModel dx="1251" dy="659" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1400" math="0" shadow="0">
+    <mxGraphModel dx="1042" dy="753" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1400" math="0" shadow="0">
       <root>
         <mxCell id="EOWgqax4IYLjzRGw1AVH-0" />
         <mxCell id="EOWgqax4IYLjzRGw1AVH-1" parent="EOWgqax4IYLjzRGw1AVH-0" />
